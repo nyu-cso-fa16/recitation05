@@ -20,9 +20,9 @@ In both cases, the length of the char array (or the string) is 6. You index indi
 
 * Complete the function `countVowels` in `vowels.c` that counts and returns the number of vowels in a given string.
 
-* Complete the `toLowerCase` function in `lower.c`. It should return the input string with all characters set to lower case. To do this, you may find the ASCII representation of characters useful. Refer to this table:	
+* Complete the `toLowerCase` function in `lower.c`. It should return the input string with all characters set to lower case. To do this, you may find the ASCII representation of characters useful. Refer to the following:	
 
-[ASCII](http://www.asciitable.com/)
+[ASCII](http://ascii.cl/)
 
 In C, all the characters are saved as a number sequence that represent the ASCII value (code) of the preferred character. Some important ASCII values are:
 
