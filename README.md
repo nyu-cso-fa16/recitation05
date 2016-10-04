@@ -20,7 +20,7 @@ In both cases, the length of the char array (or the string) is 6. You index indi
 
 * Complete the function `countVowels` in `vowels.c` that counts and returns the number of vowels in a given string.
 
-* Complete the 'toLowerCase' function in `lower.c`. It should return the input string with all characters set to lower case. To do this, you may find the ASCII representation of characters useful. Refer to this table:	
+* Complete the `toLowerCase` function in `lower.c`. It should return the input string with all characters set to lower case. To do this, you may find the ASCII representation of characters useful. Refer to this table:	
 
 [ASCII](http://www.asciitable.com/)
 
@@ -45,4 +45,4 @@ As an example. Consider the code:
 	// prints: "A"
 ```
 
-* Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string. If the last word does not exist, return 0. You fill find the function stub in lastword.c.
+* Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string. If the last word does not exist, return 0. You fill find the function stub in `lastword.c`.
