@@ -1,5 +1,11 @@
 # Computer Systems Organization : Recitation 5
 
+## GDB
+
+Before we begin, let us take a quick recap through gdb.
+
+[Here's a great tutorial.](https://www.recurse.com/blog/5-learning-c-with-gdb)
+
 ## Strings
 
 Strings are actually one-dimensional array of characters terminated by a null character `'\0'`. Thus a null-terminated string contains the characters that comprise the string followed by a null. Following is an example of how you would initialize strings in C:
