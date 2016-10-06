@@ -8,7 +8,7 @@ int countVowels(char* str)
 
 int main()
 {
-	char* str = "We could have changed the world... now look at us...I've\
+	char str[32] = "We could have changed the world... now look at us...I've\
 				become a political liability...and you...you're a joke...\
 				I want you to remember, Clark...In all the years to come...\
 				in your most private moments... I want you to remember my hand at your throat...\
